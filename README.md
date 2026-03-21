@@ -1,3 +1,9 @@
+# ⚠️ NOTE: Development has moved
+
+These changes have been merged upstream. Future development has moved to: [downtathelast/wwdead-scripts](https://github.com/downtathelast/wwdead-scripts)
+
+---
+
 # Tactical Map - WWDead Plugin
 
 A personal fork of **DTTL**'s [Tactical Map Greasemonkey Plugin](https://greasyfork.org/en/scripts/567867-wwdead-tactical-map-v2-0) for [WWDead.com](https://wwdead.com) with some additions and fixes.
